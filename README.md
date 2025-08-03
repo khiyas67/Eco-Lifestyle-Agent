@@ -14,11 +14,7 @@ Eco Lifestyle Assistant is an AI-powered tool designed to help users adopt susta
 ## 📌 Tech Stack
 
 - **AI Services:** IBM Watson / IBM Granite  
-- **Deployment:** GitHub Pages / IBM Cloud
-
-## 📷 Screenshots
-
-(Add your UI screenshots or agent response examples here)
+- **Deployment:** IBM Cloud
 
 ## 🔍 Use Case
 
